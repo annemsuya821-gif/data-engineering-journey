@@ -1,39 +1,32 @@
-# Small Shop Sales Analysis Using SQL
+# My Coding Portfolio
 
-## Project Overview
-This is a beginner SQL project that analyzes sales data from a fictional small shop. The goal is to understand product performance and calculate revenue.
+Welcome to my coding portfolio! This repository contains projects I have built while learning SQL and Python.
 
-## Objectives
-- Identify the best-selling products.
-- Calculate total quantities sold.
-- Calculate revenue for each product.
-- Identify products generating more than TZS 20,000 in revenue.
+## Project 1: Small Shop Sales Analysis
 
-## Tools Used
-- SQL
-- SQLite
-- Online SQL editor
-- GitHub
+**Technology:** SQL · SQLite
 
-## Dataset
-The sales dataset contains three columns:
-- `product`: the product sold.
-- `quantity`: the number of units sold.
-- `price`: the price per unit in TZS.
+**Skills:** Data aggregation · Revenue calculations · Filtering · Grouping
 
-## SQL Skills
-- SELECT
-- SUM()
-- GROUP BY
-- ORDER BY
-- HAVING
+**Status:** Uploaded
 
-## Project Status
-In progress — queries and findings will be added as the analysis develops.
+A beginner SQL project analyzing sales records from a fictional small shop to calculate product quantities, revenue, and sales performance.
 
-## Key Findings
-To be added after completing and verifying the analysis.
+[View SQL Project](./sales_analysis.sql)
 
-## Conclusion
-This project demonstrates how SQL can help a small business understand its sales and make informed decisions.
+## Project 2: Shop Inventory Manager
+
+**Technology:** Python
+
+**Skills:** Dictionaries · Loops · Conditional statements · Inventory calculations
+
+**Status:** Uploaded
+
+A beginner Python program that displays shop inventory, identifies products with low stock, and calculates the total number of units available.
+
+[View Python Project](./shop-inventory-manager/)
+
+## About Me
+
+I am developing my programming skills through practical projects and continuous learning.
 
