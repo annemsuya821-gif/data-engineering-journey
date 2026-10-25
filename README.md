@@ -1,32 +1,39 @@
-# My Coding Portfolio
+# My Data Engineering Journey
 
-Welcome to my coding portfolio! This repository contains projects I have built while learning SQL and Python.
+Hello! I'm building my programming and data skills through practical projects as I work toward becoming a Data Engineer.
 
-## Project 1: Small Shop Sales Analysis
+This repository documents my learning progress, projects, and the skills I develop along the way.
+
+## Projects
+
+### 1. Small Shop Sales Analysis
 
 **Technology:** SQL · SQLite
 
-**Skills:** Data aggregation · Revenue calculations · Filtering · Grouping
+**Skills practiced:** SQL queries, filtering, grouping, aggregate functions, and revenue calculations.
 
-**Status:** Uploaded
-
-A beginner SQL project analyzing sales records from a fictional small shop to calculate product quantities, revenue, and sales performance.
+A beginner project analyzing sales data from a fictional small shop.
 
 [View SQL Project](./small-shop-sales-analysis/)
 
-## Project 2: Shop Inventory Manager
+### 2. Shop Inventory Manager
 
 **Technology:** Python
 
-**Skills:** Dictionaries · Loops · Conditional statements · Inventory calculations
+**Skills practiced:** Dictionaries, loops, conditional statements, and inventory calculations.
 
-**Status:** Uploaded
-
-A beginner Python program that displays shop inventory, identifies products with low stock, and calculates the total number of units available.
+A beginner program that displays inventory quantities, identifies low-stock products, and calculates total inventory.
 
 [View Python Project](./shop-inventory-manager/)
 
-## About Me
+## Current Learning Focus
 
-I am developing my programming skills through practical projects and continuous learning.
+- Python fundamentals
+- SQL and relational databases
+- Data engineering concepts
 
+## My Goal
+
+To develop the skills needed to build reliable data pipelines, work with databases, and transform raw data into useful information.
+
+More projects will be added as I continue learning.
