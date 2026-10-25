@@ -12,7 +12,7 @@ Welcome to my coding portfolio! This repository contains projects I have built w
 
 A beginner SQL project analyzing sales records from a fictional small shop to calculate product quantities, revenue, and sales performance.
 
-[View SQL Project](./sales_analysis.sql)
+[View SQL Project](./small-shop-sales-analysis/)
 
 ## Project 2: Shop Inventory Manager
 
